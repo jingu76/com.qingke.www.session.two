@@ -1,8 +1,8 @@
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
   xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
   <modelVersion>4.0.0</modelVersion>
-  <groupId>com.acey.shiro.shiro</groupId>
-  <artifactId>shiro.shiro</artifactId>
+  <groupId>com.qingke.www.two</groupId>
+  <artifactId>two.shiro</artifactId>
   <packaging>pom</packaging>
   <version>1.0-SNAPSHOT</version>
   <modules>
@@ -11,7 +11,7 @@
     <module>shiro_3</module>
     <module>shiro_4</module>
   </modules>
-  <name>shiro.shiro Maven Webapp</name>
+  <name>two.shiro Maven Webapp</name>
   <url>http://maven.apache.org</url>
   <dependencies>
     <dependency>
@@ -23,6 +23,6 @@
 
   </dependencies>
   <build>
-    <finalName>shiro.shiro</finalName>
+    <finalName>two.shiro</finalName>
   </build>
 </project>
